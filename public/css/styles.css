@@ -1,0 +1,33 @@
+.aboutimg {
+    height: 200px;
+    width: 100%;
+    background: #aaa;
+  }
+
+.justify {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.topnav {
+  overflow: hidden;
+}
+
+.topnav a {
+  float: left;
+
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  color: black;
+}
+
+.topnav a.active {
+
+  color: Black;
+}
+
